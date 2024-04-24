@@ -13,5 +13,5 @@ Kami memiliki pedomaan penulisan kode sebagai acuan dalam proses pengembangan pe
 
 Bagi Anda yang ingin mendalami dunai programming kami memiliki beberapa referensi online sumber terbuka untuk beberapa bahasa pemrograman dibawah ini:
 
-- [Tutorial Java] (https://github.com/bellshade/Java)
-- [Tutorial Javascript] (https://github.com/bellshade/Javascript)
+- [Tutorial Java](https://github.com/bellshade/Java)
+- [Tutorial Javascript](https://github.com/bellshade/Javascript)

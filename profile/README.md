@@ -15,3 +15,9 @@ Bagi Anda yang ingin mendalami dunai programming kami memiliki beberapa referens
 
 - [Tutorial Java](https://github.com/bellshade/Java)
 - [Tutorial Javascript](https://github.com/bellshade/Javascript)
+
+## Referensi VPS
+
+Berikut ini adalah beberapa tips yang harus Anda lakukan ketika bermain dengan Virtual Private Server (VPS) berbasis Linux.
+
+- [Konfigurasi Awal VPS](https://app.clickup.com/9018288956/v/dc/8crgatw-758)

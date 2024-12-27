@@ -2,6 +2,10 @@
 
 Github organization resmi yang dikelola langsung oleh Divisi Programmer Iconmedia. Dibuat sejak Januari 2023, Repository ini digunakan untuk menyimpan kode-kode perusahaan baik bersifat publik maupun privat. Semua software project perusahaan akan di unggah dan berkolaborasi di sini.
 
+## Dokumentasi Resmi Iconmedia
+
+Kunjungi laman dokumentasi resmi [di sini](https://docs.iconmedia.id/)
+
 ## Pedomaan Penulisan Kode
 
 Kami memiliki pedomaan penulisan kode sebagai acuan dalam proses pengembangan perangkat lunak agar terhindar dari penulisan kode yang berantakan. Baca beberapa pedomaan dibawah ini:

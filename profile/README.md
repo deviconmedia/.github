@@ -12,6 +12,8 @@ Kami memiliki pedomaan penulisan kode sebagai acuan dalam proses pengembangan pe
 
 - [Pedomaan Pesan Commit](https://gist.github.com/efronpaduansi/258cd9c966f5d4ff563039ddbdc6e241)
 - [Laravel Best Practices](https://gist.github.com/efronpaduansi/ec50991ea3872031390b03e6d54dc5d5)
+- [Perfex CRM Hook List](https://gist.github.com/Yuri-Lima/67f7b8071a65349a12dd3f81c5e3114b)
+- [Perfex CRM Hook Tutorials](https://github.com/Yuri-Lima/Perfex-Hook-List)
 
 ## Referensi Pemrograman
 

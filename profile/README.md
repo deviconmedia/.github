@@ -4,7 +4,7 @@ Github organization resmi yang dikelola langsung oleh Divisi Programmer Iconmedi
 
 ## Dokumentasi Resmi Iconmedia
 
-Kunjungi laman dokumentasi resmi [di sini](https://docs.iconmedia.id/)
+Kunjungi laman dokumentasi resmi [di sini](https://developer.iconmedia.id/)
 
 ## Pedomaan Penulisan Kode
 
